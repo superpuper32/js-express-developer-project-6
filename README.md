@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/superpuper32/js-express-developer-project-6/workflows/hexlet-check/badge.svg)](https://github.com/superpuper32/js-express-developer-project-6/actions)
